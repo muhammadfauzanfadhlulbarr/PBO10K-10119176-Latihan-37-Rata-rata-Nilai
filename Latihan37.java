@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Latihan34
+ * Latihan37
  * Nama     : Muhammad Fauzan Fadhlulbarr
  * Kelas    : PBO10K
  * NIM      : 10119176
